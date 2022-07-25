@@ -267,7 +267,7 @@ header {
 .modal-description {
   margin-bottom: 0;
 }
-.modal-form-active {
+.modal-active {
   opacity: 1;
   pointer-events: all;
 }
